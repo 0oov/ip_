@@ -8,6 +8,13 @@ apt  install update apt  install upgrade
 
 apt install python 
 
-git clone 
+git clone https://github.com/0oov/ip_.git
+
+ls 
+
+cd ip_
+
+python ipkcho.py
+
 
 
